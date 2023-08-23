@@ -1,0 +1,68 @@
+{
+  "code": 4000,
+  "data": {
+    "roomId": "d06db00ad5d64a159d1fc3d0fa10af7bCq06IEzY2x",
+    "players": [
+      {
+        "id": "LBG_BOT_509523087",
+        "playerNumber": 3,
+        "headImg": "4",
+        "maskedName": "[语堂]***087",
+        "name": "[语堂]LBG_BOT_509523087",
+        "initialBalance": 18940.7,
+        "finalBalance": 0,
+        "betFinished": false,
+        "tokenBet": []
+      },
+      {
+        "id": "LBG_BOT_789235980",
+        "playerNumber": 4,
+        "headImg": "3",
+        "maskedName": "[聪健]***980",
+        "name": "[聪健]LBG_BOT_789235980",
+        "initialBalance": 6892.83,
+        "finalBalance": 0,
+        "betFinished": false,
+        "tokenBet": []
+      },{
+        "id": "10021",
+        "playerNumber": 5,
+        "headImg": "5",
+        "maskedName": "[10021]***021",
+        "name": "[10021]10021",
+        "initialBalance": 50000,
+        "finalBalance": 0,
+        "betFinished": false,
+        "tokenBet": []
+      },
+      {
+        "id": "LBG_BOT_662212659",
+        "playerNumber": 1,
+        "headImg": "2",
+        "maskedName": "[琪]***659",
+        "name": "[琪]LBG_BOT_662212659",
+        "initialBalance": 62252.43,
+        "finalBalance": 0,
+        "betFinished": false,
+        "tokenBet": [
+          100,
+          200,
+          500
+        ]
+      },
+      {
+        "id": "LBG_BOT_662248832",
+        "playerNumber": 2,
+        "headImg": "1",
+        "maskedName": "[琪]***832",
+        "name": "[琪]LBG_BOT_662248832",
+        "initialBalance": 84657.01,
+        "finalBalance": 0,
+        "betFinished": false,
+        "tokenBet": []
+      }
+    ]
+  },
+  "gamePhase": "BET_PHASE",
+  "playerChoice": "BET_TOKEN"
+}
